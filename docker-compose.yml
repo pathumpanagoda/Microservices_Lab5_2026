@@ -1,6 +1,4 @@
 # Docker Compose file for microservices
-
-
 services:
   item-service:
     build: ./item-service
